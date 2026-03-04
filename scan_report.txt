@@ -1,8 +1,0 @@
-Scan Report
-Target: 127.0.0.1
-Time: 2026-03-04 20:07:48.134827
-
-Port 135 -> Unknown
-
-Port 445 -> Unknown
-
